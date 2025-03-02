@@ -7,7 +7,7 @@ layers:
   - E
   - R
   - T
-  - Y
+  - {t: Y, h: AC DESKTOP SHOW ALL WINDOWS}
   - U
   - I
   - O
@@ -18,8 +18,8 @@ layers:
   - {t: S, h: '$$mdi:apple-keyboard-control$$'}
   - {t: D, h: '$$mdi:apple-keyboard-option$$'}
   - {t: F, h: '$$mdi:apple-keyboard-command$$'}
-  - G
-  - H
+  - {t: G, h: F23}
+  - {t: H, h: F21}
   - {t: J, h: '$$mdi:apple-keyboard-command$$'}
   - {t: K, h: '$$mdi:apple-keyboard-option$$'}
   - {t: L, h: '$$mdi:apple-keyboard-control$$'}
@@ -30,8 +30,8 @@ layers:
   - X
   - C
   - V
-  - B
-  - N
+  - {t: B, h: F24}
+  - {t: N, h: F22}
   - M
   - {t: ',', s: <}
   - {t: ., s: '>'}
@@ -39,8 +39,8 @@ layers:
   - {t: \, s: '|'}
   - {t: '`', h: '$$mdi:power-standby$$', s: '~'}
   - $$mdi:mouse-right-click-outline$$
-  - {t: '$$mdi:keyboard-tab$$', h: NUM}
-  - $$mdi:keyboard-space$$
+  - $$mdi:keyboard-tab$$
+  - {t: '$$mdi:keyboard-space$$', h: NUM}
   - $$mdi:mouse-left-click-outline$$
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - {t: '$$mdi:keyboard-space$$', h: SYM}
@@ -84,8 +84,8 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {type: held}
   - {t: '$$mdi:transfer$$', type: trans}
+  - {type: held}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
