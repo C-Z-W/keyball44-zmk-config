@@ -18,8 +18,8 @@ layers:
   - {t: S, h: '$$mdi:apple-keyboard-control$$'}
   - {t: D, h: '$$mdi:apple-keyboard-option$$'}
   - {t: F, h: '$$mdi:apple-keyboard-command$$'}
-  - {t: G, h: F23}
-  - {t: H, h: F21}
+  - {t: G, h: F15}
+  - {t: H, h: F13}
   - {t: J, h: '$$mdi:apple-keyboard-command$$'}
   - {t: K, h: '$$mdi:apple-keyboard-option$$'}
   - {t: L, h: '$$mdi:apple-keyboard-control$$'}
@@ -30,8 +30,8 @@ layers:
   - X
   - C
   - V
-  - {t: B, h: F24}
-  - {t: N, h: F22}
+  - {t: B, h: F16}
+  - {t: N, h: F14}
   - M
   - {t: ',', s: <}
   - {t: ., s: '>'}
