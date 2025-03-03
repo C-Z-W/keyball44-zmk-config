@@ -104,10 +104,10 @@ layers:
   - {t: Sft+0, s: Sft+)}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - END
-  - PgDn
-  - PgUp
-  - HOME
+  - $$mdi:pan-left$$
+  - $$mdi:pan-down$$
+  - $$mdi:pan-up$$
+  - $$mdi:pan-right$$
   - AC DESKTOP SHOW ALL WINDOWS
   - {t: /, s: '?'}
   - {t: '-', s: _}
@@ -116,10 +116,10 @@ layers:
   - {t: ']', s: '}'}
   - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:apple-keyboard-shift$$
-  - $$mdi:pan-left$$
-  - $$mdi:pan-down$$
-  - $$mdi:pan-up$$
-  - $$mdi:pan-right$$
+  - END
+  - PgDn
+  - PgUp
+  - HOME
   - AC DESKTOP SHOW ALL APPLICATIONS
   - {t: \, s: '|'}
   - _
