@@ -58,7 +58,7 @@ layers:
   - {t: '9', s: (}
   - {t: '0', s: )}
   - {t: '$$mdi:transfer$$', type: trans}
-  - GLOBE
+  - AC NEXT KEYBOARD LAYOUT SELECT
   - $$mdi:arrow-left-bold$$
   - $$mdi:arrow-down-bold$$
   - $$mdi:arrow-up-bold$$
@@ -77,7 +77,7 @@ layers:
   - '&mkp MB4'
   - {t: '$$mdi:volume-low$$', h: '$$mdi:volume-off$$'}
   - $$mdi:brightness-7$$
-  - {t: '$$mdi:transfer$$', type: trans}
+  - AC SEARCH
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
@@ -108,7 +108,7 @@ layers:
   - $$mdi:pan-down$$
   - $$mdi:pan-up$$
   - $$mdi:pan-right$$
-  - AC DESKTOP SHOW ALL WINDOWS
+  - CONTEXT MENU
   - {t: /, s: '?'}
   - {t: '-', s: _}
   - {t: '=', s: +}
