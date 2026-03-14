@@ -108,7 +108,7 @@ layers:
   - $$mdi:pan-down$$
   - $$mdi:pan-up$$
   - $$mdi:pan-right$$
-  - AC DESKTOP SHOW ALL WINDOWS
+  - APPLICATION
   - {t: /, s: '?'}
   - {t: '-', s: _}
   - {t: '=', s: +}
